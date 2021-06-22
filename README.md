@@ -1,6 +1,6 @@
 # klimatic
 
-A new Flutter project.
+A weather application Flutter project.
 
 ## Getting Started
 
